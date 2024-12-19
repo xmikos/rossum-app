@@ -1,0 +1,7 @@
+flask[async]
+asyncio
+rossum-api @ git+https://github.com/rossumai/rossum-sdk.git#egg=rossum-api
+aiohttp
+pytest
+pytest-asyncio
+python-dotenv
